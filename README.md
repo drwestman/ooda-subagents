@@ -6,10 +6,10 @@ AI agents that think like military strategists.
 
 ```bash
 # Option 1: Git submodule
-git submodule add https://github.com/al3rez/ooda-subagents.git .claude
+git submodule add https://github.com/drwestman/ooda-subagents.git .claude
 
 # Option 2: Copy agents
-git clone https://github.com/al3rez/ooda-subagents.git
+git clone https://github.com/drwestman/ooda-subagents.git
 cp -r ooda-subagents/agents <your-project>/.claude/
 ```
 
